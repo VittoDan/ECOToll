@@ -1,7 +1,7 @@
 package Autostrada;
 
 public class Autostrada {
-		private String tipo;
+		private String tipo;//pianura,montagna ecc 
 		private float tariffaUnitaria;
 		private  Casello [] listaCasello;
 		public float getTariffaUnitaria() {return 0;}
