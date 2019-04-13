@@ -22,7 +22,6 @@ public class Veicolo {
 	public int getAssi() {return 0;}
 	public int getAnno() {return 0;}
 	public float getAltezza() {return 0;}
-	
 	public void setModello(String modello) {;}
 	public void setMarca(String marca) {;}
 	public void setAssi(int assi) {;}
