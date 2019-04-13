@@ -1,7 +1,6 @@
 package Veicolo;
-
+/*Generica interfaccia di veicolo*/
 public interface Veicolo {
-	
 	public ClasseVeicolo getTipo();
 	public String getModello();
 	public String getMarca();
@@ -13,4 +12,5 @@ public interface Veicolo {
 	public void setAssi(int assi);
 	public void setAnno(int anno);
 	public void setAltezza(float altezza);	
+	
 }
